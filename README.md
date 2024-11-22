@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Pablo Vercet Llopis
 
-<!--
-**PabloVercetLlopis/PabloVercetLlopis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 **Bioinformática y Ciencia de Datos**  
+💻 Me apasiona trabajar con datos genómicos y clínicos para desarrollar modelos predictivos y visualizaciones avanzadas.  
 
-Here are some ideas to get you started:
+## Intereses
+- 🔍 Machine Learning aplicado a la salud y biotecnología  
+- 📊 Análisis de datos con Python, R y Power BI  
+- 🌍 Colaborar en proyectos de ciencia de datos o bioinformática  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+📧 [Email] (pablo_vercet@hotmail.com)  
+💼 [LinkedIn] (www.linkedin.com/in/pablovercetllopis)  
+
+### 🎯 ¿Tienes un proyecto interesante? ¡Hablemos! 🚀
